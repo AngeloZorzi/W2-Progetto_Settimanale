@@ -1,0 +1,121 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(229, 225, 225);
+  width: 100%;
+}
+#LogoAmazon {
+  width: 5em;
+  padding: 0.2em;
+}
+.logoamazon {
+  background-color: #131921;
+  margin: -8px;
+  padding: 3px;
+}
+#barraNav {
+  margin-top: 0.5em;
+  margin-left: -8.4px;
+  margin-right: -8px;
+  padding: 10px;
+  background-color: #232f3e;
+}
+span {
+  color: white;
+  font-size: 0.8em;
+  margin-right: 3px;
+  margin-left: 20px;
+}
+#firstp {
+  text-align: center;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  margin-left: 0px;
+  margin-right: 0px;
+  padding: 0.5em;
+  background-color: #fd3f0d;
+  color: white;
+  font-size: 0.5em;
+}
+#background {
+  text-align: center;
+  background-image: url(../img/bg-image.png);
+  background-size: contain;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 16px;
+}
+h3 {
+  padding: 6px;
+  color: white;
+  font-weight: 600;
+  font-size: 15px;
+  margin-bottom: 0;
+}
+#secondp {
+  margin-top: 0;
+  padding-bottom: 13px;
+  font-size: xx-small;
+  color: white;
+  font-weight: 600;
+}
+.display {
+  inline-size: 15em;
+  height: 13em;
+  margin-top: 12px;
+  border-radius: 3%;
+  text-align: center;
+  width: 260px;
+}
+#images {
+  background-color: white;
+}
+#thirdp {
+  font-size: 12px;
+  font-weight: 600;
+  padding: 1em;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+a {
+  font-size: 10px;
+  color: #74a3c8;
+  font-weight: 600;
+}
+#immaginegrande {
+  width: 100%;
+  height: auto;
+  margin-top: 40px;
+}
+.underimg {
+  text-align: center;
+  font-weight: 500;
+  font-size: 12px;
+  margin-top: 0;
+}
+#lastp {
+  text-align: center;
+  background-color: #232f3e;
+  margin-top: 1em;
+  margin-bottom: 0;
+  margin-left: -8px;
+  margin-right: -8px;
+  padding: 1em;
+}
+#back {
+  color: white;
+  font-size: 10px;
+  padding: 1em;
+  font-weight: 600;
+}
+#lastimg {
+  width: 160px;
+  padding: 2em;
+}
+#final {
+  margin-top: 0;
+  margin-left: -8px;
+  margin-right: -8px;
+  margin-bottom: -8px;
+  background-color: #131921;
+  text-align: center;
+}
