@@ -75,7 +75,7 @@ h3 {
   border-radius: 14%;
   text-align: center;
   width: 258px;
-  /* padding-left: 6px; */
+  padding-left: 12px;
   padding-right: 15px;
 }
 #images {
@@ -87,7 +87,7 @@ h3 {
   padding: 1em;
   margin-bottom: 0;
   padding-bottom: 0;
-  padding-left: 10px;
+  padding-left: 25px;
 }
 a {
   font-size: 10px;
